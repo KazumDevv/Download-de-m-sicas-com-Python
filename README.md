@@ -1,6 +1,6 @@
 "# Download-de-musicas-com-Python"
 
-"# Foi usado a biblioteca Selenium para fazer uma pesquisa autommatizada para achar o nome das musicas."
+"# Foi usado a biblioteca Selenium para fazer uma pesquisa automatizada para achar o nome das musicas. Assim é possivel modificar o campo 'banda' com a string desejada e rodar o codigo"
 
 "# É possivel baixar uma musica desejada indo no campo 'link', colocando o link alvo e executando APENAS o respectivo bloco de codigo"
 
